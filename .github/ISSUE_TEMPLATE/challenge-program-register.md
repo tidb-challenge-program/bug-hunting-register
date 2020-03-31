@@ -12,8 +12,10 @@ assignees: ''
 - Team Leader: @sre-bot(sre-bot@pingcap.com)
 - Team Member: @sre-bot(sre-bot@pingcap.com)
 - Team Member: @sre-bot(sre-bot@pingcap.com)
+- Team Member: @sre-bot(sre-bot@pingcap.com)
+- Team Member: @sre-bot(sre-bot@pingcap.com)
 
 NOTE:
 
-1. A Team can have AT MOST 3 people, including the Team Leader.
+1. A Team can have AT MOST 5 people, including the Team Leader.
 2. A Team MUST have a Team Leader, even if there is only 1 people in the Team.
