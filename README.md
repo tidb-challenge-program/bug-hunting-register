@@ -1,6 +1,6 @@
-# TiDB Challenge Program
+# TiDB Bug Hunting Program
 
-This repo is for TiDB Challenge Program register and other relative events.
+This repo is for TiDB Bug Hunting Program register and other relative events.
 
 ## Sign Up
 
