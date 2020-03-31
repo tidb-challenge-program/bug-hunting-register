@@ -1,5 +1,5 @@
 ---
-name: "Challenge Program Register"
+name: "Bug Hunting Program Register"
 about: I want to register the challenge program!
 title: 'UCP/Signup'
 labels: ''
