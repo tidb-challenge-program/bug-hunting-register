@@ -1,7 +1,7 @@
 ---
 name: "Bug Hunting Program Register"
 about: I want to register the challenge program!
-title: 'UCP/Signup'
+title: 'Bug Hunting/Signup'
 labels: ''
 assignees: ''
 ---
